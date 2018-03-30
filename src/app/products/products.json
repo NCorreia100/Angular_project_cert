@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "AmazonBasics Shredder",
+        "Code": "9BXPL2KR",
+        "ReleaseDate": "2014-07-31",
+        "Price": 20,
+        "Rating": 2.85,
+        "ImageUrl": "https://media1.giphy.com/media/l0MYvtFeellP73Hri/giphy.gif"
+    },
+    {
+        "Name": "Canon Wireless All-IN-One Printer",
+        "Code": "3D6ZNKQB",
+        "ReleaseDate": "2015-01-06",
+        "Price": 55,
+        "Rating": 0.95,
+        "ImageUrl": "https://media1.tenor.com/images/ef7384486f8ea11ea92162f57df1daba/tenor.gif?itemid=8511606"
+    },
+    {
+        "Name": "VTech Home Phone w/ cordless handset",
+        "Code": "WWQT3BV4",
+        "ReleaseDate": "2016-08-18",
+        "Price": 63,
+        "Rating": 2.5,
+        "ImageUrl": "http://cdn1.clevver.com/wp-content/uploads/2014/05/freaks-and-geeks-landline-phone.gif"
+    },
+    {
+        "Name": "AmazonBasics Thermal Laminator",
+        "Code": "8KKTPZBS",
+        "ReleaseDate": "2015-12-25",
+        "Price": 22.5,
+        "Rating": 4.5,
+        "ImageUrl": "http://www.mjdlabelling.co.uk/images/splash_lam_2001.gif"
+    },
+    {
+        "Name": "Brother P-Touch Label Maker",
+        "Code": "8VPDE7ZD",
+        "ReleaseDate": "2016-08-03",
+        "Price": 19.99,
+        "Rating": 4.75,
+        "ImageUrl": "https://media.giphy.com/media/3ohzdLmSJIDhgd6iqc/giphy.gif"
+    },
+    {
+        "Name": "DBPOWER T20 LCD Movie Projector Home Theater",
+        "Code": "SUC4RY7V",
+        "ReleaseDate": "2014-02-27",
+        "Price": 74.35,
+        "Rating": 5,
+        "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6ROu1x6xnTMU8s3ha9qvUzp4lcfqVeBdyi3vFaeXRjz65S3bJQ"
+    },
+    {
+        "Name": "Plantronics Wireless Headset System",
+        "Code": "TREFW2GY",
+        "ReleaseDate": "2014-11-18",
+        "Price": 31.15,
+        "Rating": 4.05,
+        "ImageUrl": "https://media.giphy.com/media/WDy1kdeSdmMk8/giphy.gif"
+    },
+    {
+        "Name": "Logitech HD Pro Webcam",
+        "Code": "GC9Y7DQQ",
+        "ReleaseDate": "2017-11-20",
+        "Price": 24.75,
+        "Rating": 4,
+        "ImageUrl": "https://media.giphy.com/media/10m9nmJvzxkWZ2/giphy.gif"
+    },
+    {
+        "Name": "Acer (1920 x 1080) Widescreen Monitor",
+        "Code": "3YG5R37G",
+        "ReleaseDate": "2014-08-03",
+        "Price": 50.05,
+        "Rating": 3.29,
+        "ImageUrl": "http://i1146.photobucket.com/albums/o528/arcki1/Queacute-clase-de-brujeriacutea-es-eacutesta_zpsaee002fb.gif"
+    }
+]
